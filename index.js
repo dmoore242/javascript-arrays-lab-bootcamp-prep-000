@@ -30,3 +30,6 @@ function prependKitten(name) {
   return kitten
 }
 
+function removeLastKitten() {
+  var kitten = kittens.
+}
